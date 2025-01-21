@@ -1,7 +1,7 @@
 WORK IN PROGRESS
 
 # AM Transceiver
-An AM transmitter and receiver system designed for audio transmission using a tunable carrier signal. The system uses a DDS for generating the carrier, supports analog audio input via microphone or AUX, and features a complete receiver circuit with filtering, demodulation, amplification, and playback capabilities.
+An AM transmitter and receiver system designed for short-range audio transmission using a tunable carrier signal. The system uses a DDS for generating the carrier, supports analog audio input via microphone or AUX, and features a complete receiver circuit with filtering, demodulation, amplification, and playback capabilities.
 
 # Overview
 This project demonstrates a functional AM short-range transmitter and receiver, showcasing the principles of amplitude modulation and demodulation. The transmitter allows users to transmit audio signals over a tunable frequency range (750kHz to 1.25MHz). The receiver filters, demodulates, amplifies, and plays back the transmitted audio using basic analog circuitry.
